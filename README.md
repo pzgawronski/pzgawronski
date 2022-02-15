@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋 ~~GENERAL KENOBI~~
 
 - 🌱 **I’m currently learning:** 🐍 Python (#100daysofcode).
 - 😄 Pronouns: EN: they/them PL: on/jego, ono/jego
