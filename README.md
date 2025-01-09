@@ -1,6 +1,6 @@
 ### Hello there 👋 ~~GENERAL KENOBI~~
 
-- 🌱 **I’m currently learning:** 🐍 Python (#100daysofcode).
+- 🌱 **I’m currently learning:** 🐍 Python, 🦀 Rust, SQL
 - 😄 **Pronouns:** EN: they/them PL: on/jego, ono/jego
 - 💬 **Ask me about:** ☕ coffee and 🎲 my D&D setting. 😛 
 - ⚡ **Fun fact:** I am also a bass player and my profile pic was taken during a gig. 🎸
